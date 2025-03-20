@@ -1,6 +1,6 @@
-Nominal,Ordinal,Interval,Ratio,weight
-Divine,1,2,2.3ft,1.2kg
-glory,2,4,5ft,3kg
-chike,3,6,4.5fit,4kg
-Jane,4,8,6ft,6kg
-Jeffery,5,10,8ft,7kg
+Nominal,Ordinal,Interval,Ratio,weight,size
+Divine,1,2,2.3ft,1.2kg,big
+glory,2,4,5ft,3kg,medium
+chike,3,6,4.5fit,4kg,small
+Jane,4,8,6ft,6kg,giant
+Jeffery,5,10,8ft,7kg,average
